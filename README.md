@@ -17,8 +17,5 @@
 - Subqueries
 - Window Functions
 
-📂 GitHub Link:
-https://github.com/yourname/SQL-Ecommerce-Sales-Analysis
-
 #SQL #DataAnalytics #DataScience #GitHub #Projects
 
